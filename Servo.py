@@ -1,5 +1,11 @@
 #!/usr/bin/python
 
+#run from command line, the inputs are:
+#./servo.py direction delay steps
+#direction is given as a 1 or a -1, 1 is clockwise motion, and -1 is anti-clockwise motion
+#delay is given as full numbers and then converted into milliseconds for example 1 or 5
+#steps is given as a full number again, for example 5 or 100
+
 import sys
 import time
 import RPi.GPIO as GPIO
