@@ -1,0 +1,1 @@
+{ "software_version": "NRZ-2017-072", "sensordatavalues": [ { "value_type": "temperature", "value": "25.00" }, { "value_type": "humidity", "value": "34.30" }, { "value_type": "samples", "value": "301106" }, { "value_type": "min_micro", "value": "179" }, { "value_type": "max_micro", "value": "29889" }, { "value_type": "signal", "value": "-60 dBm" } ] }
